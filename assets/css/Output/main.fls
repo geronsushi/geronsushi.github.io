@@ -1,0 +1,6 @@
+PWD L:/Homepage/Theme/assets/css
+INPUT c:/texlive/2013/texmf.cnf
+INPUT c:/texlive/2013/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2013/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT l:/Homepage/Theme/assets/css/main.css
+OUTPUT Output/main.log
